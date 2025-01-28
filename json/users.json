@@ -1,0 +1,29 @@
+{
+    "XS9IPYT34FDL2FGF":{
+        "User-Name":"niceportal",
+        "password":"niceportal",
+        "Framed-IP-Address":"192.168.2.200",
+        "Framed-Protocol":"PPP",
+        "Service-Type":"Framed-User",
+        "Framed-Pool":"hs-pool-2",
+        "Session-Timeout":"324532"
+    },
+    "SFQTR3LLNFTBOUBO":{
+        "User-Name":"test",
+        "password":"test",
+        "Framed-IP-Address":"192.168.2.201",
+        "Framed-Protocol":"PPP",
+        "Service-Type":"Framed-User",
+        "Framed-Pool":"hs-pool-2",
+        "Session-Timeout":"324532"
+    },
+    "US9IPQT98FDL2FRH":{
+        "User-Name":"admin",
+        "password":"admin",
+        "Framed-IP-Address":"192.168.2.202",
+        "Framed-Protocol":"PPP",
+        "Service-Type":"Framed-User",
+        "Framed-Pool":"hs-pool-2",
+        "Session-Timeout":"324532"
+    }
+}
