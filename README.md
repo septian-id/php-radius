@@ -10,3 +10,8 @@ $config = [
   'debug' => RADIUS_DEBUG,
 ];
 ```
+
+How to use ?
+```
+php server.php
+```
