@@ -1,5 +1,6 @@
 # php-radius
 PHP based Radius server
+
 Before using it, Please include the PHP socket extension (php_sockets.dll or php_sockets.so)
 ```
 $config = [
